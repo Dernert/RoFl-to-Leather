@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "rofl2leather:skin"
+    },
+    "result": "minecraft:leather",
+    "experience": 0.5,
+    "cookingtime": 200
+}

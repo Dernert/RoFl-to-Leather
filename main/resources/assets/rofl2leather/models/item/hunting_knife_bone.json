@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "rofl2leather:item/hunting_knife_bone"
+  }
+}

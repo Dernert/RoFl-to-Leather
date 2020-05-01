@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  _",
+        " __",
+        "/_ "
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:dark_oak_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+      "item": "rofl2leather:hunting_knife_wood",
+        "count": 1
+    }
+}
