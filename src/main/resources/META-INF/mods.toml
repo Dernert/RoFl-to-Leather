@@ -24,13 +24,16 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/rofl-to-leather" #optio
 # A file name (in the root of the mod JAR) containing a logo for display
 #logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
-credits="Graphic designer: Nimbz" #optional
+credits="Graphic designer: Nimbz, Meride" #optional
 # A text field displayed in the mod UI
 authors="Dernert" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 RoFl2Leather adds new Recipes to Minecraft. Kill Zombies and get Rotten Flesh.
 Dry it on the Campfire and use four dried Flesh plus two String to craft one Leather.
+New in Version 3:
+The Loottable of Cows and Pigs is modified. Cows drops Skin instead of Leather and Pigs drops Skin additionally.
+Two new Weapons are added. A Hunting Knife of Bone and one of Wood. They raise the Chance for Skin Drops.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.rofl2leather]] #optional
