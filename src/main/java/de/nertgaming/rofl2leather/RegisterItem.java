@@ -1,3 +1,10 @@
+/////////////CREDITS/////////////
+// Graphic:                     /
+//  dried_flesh: Nimbz          /
+//  skin: Meride94              /
+//  hunting_knife_bone: Meride94/
+//  hunting_knife_wood: Meride94/
+/////////////////////////////////
 package de.nertgaming.rofl2leather;
 
 import net.minecraft.item.Item;
