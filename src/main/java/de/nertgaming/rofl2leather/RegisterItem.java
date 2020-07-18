@@ -1,10 +1,3 @@
-/////////////CREDITS/////////////
-// Graphic:                     /
-//  dried_flesh: Nimbz          /
-//  skin: Meride94              /
-//  hunting_knife_bone: Meride94/
-//  hunting_knife_wood: Meride94/
-/////////////////////////////////
 package de.nertgaming.rofl2leather;
 
 import net.minecraft.item.Item;
@@ -17,7 +10,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class RegisterItem {
 
-    public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, Main.MODID);
+    private static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Main.MODID);
 
     public static final RegistryObject<Item> dried_flesh = ITEMS.register("dried_flesh",
             () -> new Item(new Item.Properties().group(ItemGroup.MISC)));
